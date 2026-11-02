@@ -39,9 +39,9 @@ The pieces Guard is built on are public. Issues and pull requests are welcome.
 
 | Package | What it is | |
 | --- | --- | --- |
-| [`@guardbot/framework`](https://github.com/guardbotgg/framework) | A framework for building Discord bots with discord.js: commands, components, listeners and hot reload. | [![npm](https://img.shields.io/npm/v/@guardbot/framework?color=6870FF&label=npm)](https://www.npmjs.com/package/@guardbot/framework) |
-| [`@guardbot/chalk`](https://github.com/guardbotgg/chalk) | A simple colored logger for apps. | [![npm](https://img.shields.io/npm/v/@guardbot/chalk?color=6870FF&label=npm)](https://www.npmjs.com/package/@guardbot/chalk) |
-| [`@guardbot/sanitizer`](https://github.com/guardbotgg/sanitizer) | Turns fancy fonts and look-alike letters back into plain text, so filters can't be dodged. | [![npm](https://img.shields.io/npm/v/@guardbot/sanitizer?color=6870FF&label=npm)](https://www.npmjs.com/package/@guardbot/sanitizer) |
+| [`@guardbot/framework`](https://github.com/guardhq/framework) | A framework for building Discord bots with discord.js: commands, components, listeners and hot reload. | [![npm](https://img.shields.io/npm/v/@guardbot/framework?color=6870FF&label=npm)](https://www.npmjs.com/package/@guardbot/framework) |
+| [`@guardbot/chalk`](https://github.com/guardhq/chalk) | A simple colored logger for apps. | [![npm](https://img.shields.io/npm/v/@guardbot/chalk?color=6870FF&label=npm)](https://www.npmjs.com/package/@guardbot/chalk) |
+| [`@guardbot/sanitizer`](https://github.com/guardhq/sanitizer) | Turns fancy fonts and look-alike letters back into plain text, so filters can't be dodged. | [![npm](https://img.shields.io/npm/v/@guardbot/sanitizer?color=6870FF&label=npm)](https://www.npmjs.com/package/@guardbot/sanitizer) |
 
 ### Get in touch
 Questions, bugs and ideas go in our [support server](https://discord.gg/vamQMmYBNN).
