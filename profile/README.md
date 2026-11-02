@@ -1,6 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg" />
-  <img src="banner-light.svg" alt="Guard: moderation and security for Discord servers" width="100%" />
+  <img src="banner.svg" alt="Guard" width="100%" />
 </picture>
 
 <p align="center">
